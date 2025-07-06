@@ -1,0 +1,11 @@
+body{
+    background-image: url(background1.avif);
+    background-repeat: initial;
+    color:#edeae4
+    }
+    table{
+        font-style: bold;
+        font-weight: bold;
+         font-size: 20px;
+         font-family: arial, sans-serif;
+    }
